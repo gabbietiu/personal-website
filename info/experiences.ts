@@ -71,25 +71,4 @@ export const experiences: Project[] = [
     color: "blue",
     website: "https://www.britishschoolmanila.org/",
   },
-  {
-    name: "British School Manila Volleyball",
-    description: "Team Captain",
-    longDescription:
-      "I led our team to the ISAC Championship 2024 victory, which was " +
-      "absolutely amazing! Playing multiple positions - libero, open, and " +
-      "right wing - gave me a unique perspective on the game and helped me " +
-      "understand how each role contributes to the team's success. The " +
-      "experience taught me that building team discipline and resilience is " +
-      "just as important as athletic skill. Winning the championship was " +
-      "incredible, but seeing how our team grew together was even more " +
-      "rewarding.",
-    media: [
-      "bsmv-1.jpg",
-      "bsmv-2.mp4",
-      "bsmv-3.jpg",
-      "bsmv-4.jpg",
-      "bsmv-5.jpg",
-    ],
-    color: "blue",
-  },
 ];

@@ -47,7 +47,7 @@ export const projects: Project[] = [
       "elements that made the game enjoyable to play. The experience taught " +
       "me a lot about game design principles and how to balance fun with " +
       "challenge.",
-    media: ["ptge-1.png", "ptge-2-compressed.mp4"],
+    media: ["ptge-1.png", "ptge-2.mp4"],
     color: "blue",
     website: "https://dy2517.itch.io/penguins-the-great-exporer",
   },
@@ -55,13 +55,13 @@ export const projects: Project[] = [
     name: "Bake It Forward",
     description: "Founder",
     longDescription:
-      "I started a community baking initiative that brought people together " +
-      "through the joy of baking. The project involved organizing baking " +
-      "sessions, sharing recipes, and creating a supportive community around " +
-      "this shared passion. I learned how to coordinate events, manage " +
-      "participants, and create meaningful connections through a common " +
-      "interest. It was amazing to see how food can bring people together " +
-      "and create lasting friendships.",
+      "I started a community baking initiative that brought together people " +
+      "with disabilities and unemployed mothers who wanted to have a small " +
+      "income source. The project involved organizing baking sessions, sharing " +
+      "recipes, and creating a supportive community around this shared passion. " +
+      "I learned how to coordinate events, manage participants, and create " +
+      "meaningful connections through a common interest. It was amazing to see " +
+      "how food can bring people together and create lasting friendships.",
     media: ["bif-1.jpg", "bif-2.jpg", "bif-3.jpg", "bif-4.jpg"],
     color: "pink",
   },
